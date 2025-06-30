@@ -1,2 +1,2 @@
-wurstmeister/zookeeper:latest
-wurstmeister/kafka:latest
+wurstmeister/zookeeper:3.4.14
+wurstmeister/kafka:2.12-2.3.1
