@@ -1,1 +1,2 @@
-confluentinc/cp-kafka:3.7.0
+wurstmeister/zookeeper:latest
+wurstmeister/kafka:latest
