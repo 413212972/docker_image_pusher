@@ -1,1 +1,1 @@
-w958660278/grafana-cn:latest-dev
+grafana/grafana
