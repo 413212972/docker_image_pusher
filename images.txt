@@ -1,2 +1,1 @@
-apache/rocketmq:5.2.0
-apacherocketmq/rocketmq-dashboard:latest
+w958660278/grafana-cn:latest-dev
