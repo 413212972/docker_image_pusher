@@ -1,1 +1,1 @@
-elasticsearch:8.19.10
+neo4j:5.22-community
